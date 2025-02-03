@@ -1,2 +1,2 @@
 # Dictionary-App
-Basic API Based Movie project
+Basic API Based Movie projects
